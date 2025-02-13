@@ -1,4 +1,5 @@
 #METODOLOGÍA DEL MODELO DE ESPIRAL
+
 El modelo espiral te permitirá desarrollar la detección de armas de forma iterativa, reduciendo riesgos y mejorando resultados en cada ciclo. Además, si encuentras limitaciones en los datos o en la precisión, puedes volver a una fase anterior sin perder todo el progreso.
 
 ##Fase 1: Planificación
@@ -22,4 +23,5 @@ El modelo espiral te permitirá desarrollar la detección de armas de forma iter
 - Planificar la siguiente iteración del proyecto
   
 ##DIAGRAMA
+
 ![image](https://github.com/user-attachments/assets/064283cc-7c13-4221-9771-a4433d4d5a06)
